@@ -1,0 +1,9 @@
+c:\users\xkj\documents\visual studio 2013\Projects\DPstrategy\DPstrategy\bin\Debug\DPstrategy.exe.config
+c:\users\xkj\documents\visual studio 2013\Projects\DPstrategy\DPstrategy\bin\Debug\DPstrategy.exe
+c:\users\xkj\documents\visual studio 2013\Projects\DPstrategy\DPstrategy\bin\Debug\DPstrategy.pdb
+c:\users\xkj\documents\visual studio 2013\Projects\DPstrategy\DPstrategy\obj\Debug\DPstrategy.csprojResolveAssemblyReference.cache
+c:\users\xkj\documents\visual studio 2013\Projects\DPstrategy\DPstrategy\obj\Debug\DPstrategy.Form1.resources
+c:\users\xkj\documents\visual studio 2013\Projects\DPstrategy\DPstrategy\obj\Debug\DPstrategy.Properties.Resources.resources
+c:\users\xkj\documents\visual studio 2013\Projects\DPstrategy\DPstrategy\obj\Debug\DPstrategy.csproj.GenerateResource.Cache
+c:\users\xkj\documents\visual studio 2013\Projects\DPstrategy\DPstrategy\obj\Debug\DPstrategy.exe
+c:\users\xkj\documents\visual studio 2013\Projects\DPstrategy\DPstrategy\obj\Debug\DPstrategy.pdb
