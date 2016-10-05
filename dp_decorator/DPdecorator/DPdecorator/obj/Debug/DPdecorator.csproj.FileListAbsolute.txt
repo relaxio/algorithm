@@ -1,0 +1,6 @@
+c:\users\xkj\documents\visual studio 2013\Projects\DPdecorator\DPdecorator\bin\Debug\DPdecorator.exe.config
+c:\users\xkj\documents\visual studio 2013\Projects\DPdecorator\DPdecorator\bin\Debug\DPdecorator.exe
+c:\users\xkj\documents\visual studio 2013\Projects\DPdecorator\DPdecorator\bin\Debug\DPdecorator.pdb
+c:\users\xkj\documents\visual studio 2013\Projects\DPdecorator\DPdecorator\obj\Debug\DPdecorator.csprojResolveAssemblyReference.cache
+c:\users\xkj\documents\visual studio 2013\Projects\DPdecorator\DPdecorator\obj\Debug\DPdecorator.exe
+c:\users\xkj\documents\visual studio 2013\Projects\DPdecorator\DPdecorator\obj\Debug\DPdecorator.pdb

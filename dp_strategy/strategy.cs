@@ -31,18 +31,18 @@ class Context
         this.strategy = strategy;
     }
 
-    //与工厂方法结合
+    //与简单工厂结合
     public Context(string type)
     {
         switch(type)
         {
-            case A:
+            case "A":
                 strategy = new ConcreteStrategyA();
                 break;
-            case B:
+            case "B":
                 strategy = new ConcreteStrategyB();
                 break;
-            case C:
+            case "C":
                 strategy = new ConcreteStrategyC();
                 break;
         }
@@ -53,5 +53,25 @@ class Context
     public void ContextInterface()
     {
         strategy.AlgorithmInterface();
+    }
+}
+
+class Client
+{
+    static void Main(string[] args)
+    {
+        Context context;
+        context = new Context(new ConcreteStrategyA());
+        context.ContextInterface();
+
+        context = new Context(new ConcreteStrategyB());
+        context.ContextInterface();
+
+        context = new Context(new ConcreteStrategyC());
+        context.ContextInterface();
+
+        //简单工厂
+        context = new Context("A" or "B" or "C");
+        context.ContextInterface();
     }
 }
