@@ -1,0 +1,6 @@
+c:\users\whu\documents\visual studio 2015\Projects\DPproxy\DPproxy\bin\Debug\DPproxy.exe.config
+c:\users\whu\documents\visual studio 2015\Projects\DPproxy\DPproxy\bin\Debug\DPproxy.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPproxy\DPproxy\bin\Debug\DPproxy.pdb
+c:\users\whu\documents\visual studio 2015\Projects\DPproxy\DPproxy\obj\Debug\DPproxy.csprojResolveAssemblyReference.cache
+c:\users\whu\documents\visual studio 2015\Projects\DPproxy\DPproxy\obj\Debug\DPproxy.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPproxy\DPproxy\obj\Debug\DPproxy.pdb

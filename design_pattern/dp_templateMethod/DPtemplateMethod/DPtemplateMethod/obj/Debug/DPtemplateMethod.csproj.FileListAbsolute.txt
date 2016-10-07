@@ -1,0 +1,6 @@
+c:\users\whu\documents\visual studio 2015\Projects\DPtemplateMethod\DPtemplateMethod\bin\Debug\DPtemplateMethod.exe.config
+c:\users\whu\documents\visual studio 2015\Projects\DPtemplateMethod\DPtemplateMethod\bin\Debug\DPtemplateMethod.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPtemplateMethod\DPtemplateMethod\bin\Debug\DPtemplateMethod.pdb
+c:\users\whu\documents\visual studio 2015\Projects\DPtemplateMethod\DPtemplateMethod\obj\Debug\DPtemplateMethod.csprojResolveAssemblyReference.cache
+c:\users\whu\documents\visual studio 2015\Projects\DPtemplateMethod\DPtemplateMethod\obj\Debug\DPtemplateMethod.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPtemplateMethod\DPtemplateMethod\obj\Debug\DPtemplateMethod.pdb

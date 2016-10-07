@@ -1,0 +1,6 @@
+c:\users\whu\documents\visual studio 2015\Projects\DPprototype\DPprototype\bin\Debug\DPprototype.exe.config
+c:\users\whu\documents\visual studio 2015\Projects\DPprototype\DPprototype\bin\Debug\DPprototype.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPprototype\DPprototype\bin\Debug\DPprototype.pdb
+c:\users\whu\documents\visual studio 2015\Projects\DPprototype\DPprototype\obj\Debug\DPprototype.csprojResolveAssemblyReference.cache
+c:\users\whu\documents\visual studio 2015\Projects\DPprototype\DPprototype\obj\Debug\DPprototype.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPprototype\DPprototype\obj\Debug\DPprototype.pdb

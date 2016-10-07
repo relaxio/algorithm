@@ -1,0 +1,6 @@
+c:\users\whu\documents\visual studio 2015\Projects\DPfacade\DPfacade\bin\Debug\DPfacade.exe.config
+c:\users\whu\documents\visual studio 2015\Projects\DPfacade\DPfacade\bin\Debug\DPfacade.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPfacade\DPfacade\bin\Debug\DPfacade.pdb
+c:\users\whu\documents\visual studio 2015\Projects\DPfacade\DPfacade\obj\Debug\DPfacade.csprojResolveAssemblyReference.cache
+c:\users\whu\documents\visual studio 2015\Projects\DPfacade\DPfacade\obj\Debug\DPfacade.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPfacade\DPfacade\obj\Debug\DPfacade.pdb
