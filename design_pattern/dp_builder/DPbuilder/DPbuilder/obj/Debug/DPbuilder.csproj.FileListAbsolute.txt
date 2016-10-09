@@ -1,0 +1,9 @@
+c:\users\whu\documents\visual studio 2015\Projects\DPbuilder\DPbuilder\bin\Debug\DPbuilder.exe.config
+C:\Users\WHU\documents\visual studio 2015\Projects\DPbuilder\DPbuilder\bin\Debug\DPbuilder.exe
+C:\Users\WHU\documents\visual studio 2015\Projects\DPbuilder\DPbuilder\bin\Debug\DPbuilder.pdb
+C:\Users\WHU\documents\visual studio 2015\Projects\DPbuilder\DPbuilder\obj\Debug\DPbuilder.csprojResolveAssemblyReference.cache
+C:\Users\WHU\documents\visual studio 2015\Projects\DPbuilder\DPbuilder\obj\Debug\DPbuilder.Form1.resources
+C:\Users\WHU\documents\visual studio 2015\Projects\DPbuilder\DPbuilder\obj\Debug\DPbuilder.Properties.Resources.resources
+C:\Users\WHU\documents\visual studio 2015\Projects\DPbuilder\DPbuilder\obj\Debug\DPbuilder.csproj.GenerateResource.Cache
+C:\Users\WHU\documents\visual studio 2015\Projects\DPbuilder\DPbuilder\obj\Debug\DPbuilder.exe
+C:\Users\WHU\documents\visual studio 2015\Projects\DPbuilder\DPbuilder\obj\Debug\DPbuilder.pdb

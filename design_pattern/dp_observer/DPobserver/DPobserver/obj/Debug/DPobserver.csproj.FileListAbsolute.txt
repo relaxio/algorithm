@@ -1,0 +1,6 @@
+c:\users\whu\documents\visual studio 2015\Projects\DPobserver\DPobserver\bin\Debug\DPobserver.exe.config
+c:\users\whu\documents\visual studio 2015\Projects\DPobserver\DPobserver\bin\Debug\DPobserver.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPobserver\DPobserver\bin\Debug\DPobserver.pdb
+c:\users\whu\documents\visual studio 2015\Projects\DPobserver\DPobserver\obj\Debug\DPobserver.csprojResolveAssemblyReference.cache
+c:\users\whu\documents\visual studio 2015\Projects\DPobserver\DPobserver\obj\Debug\DPobserver.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPobserver\DPobserver\obj\Debug\DPobserver.pdb
