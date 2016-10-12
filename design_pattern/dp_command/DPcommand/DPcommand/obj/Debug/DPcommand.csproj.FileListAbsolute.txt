@@ -1,0 +1,6 @@
+c:\users\whu\documents\visual studio 2015\Projects\DPcommand\DPcommand\bin\Debug\DPcommand.exe.config
+c:\users\whu\documents\visual studio 2015\Projects\DPcommand\DPcommand\bin\Debug\DPcommand.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPcommand\DPcommand\bin\Debug\DPcommand.pdb
+c:\users\whu\documents\visual studio 2015\Projects\DPcommand\DPcommand\obj\Debug\DPcommand.csprojResolveAssemblyReference.cache
+c:\users\whu\documents\visual studio 2015\Projects\DPcommand\DPcommand\obj\Debug\DPcommand.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPcommand\DPcommand\obj\Debug\DPcommand.pdb

@@ -1,0 +1,6 @@
+c:\users\whu\documents\visual studio 2015\Projects\DPcomposite\DPcomposite\bin\Debug\DPcomposite.exe.config
+C:\Users\WHU\documents\visual studio 2015\Projects\DPcomposite\DPcomposite\bin\Debug\DPcomposite.exe
+C:\Users\WHU\documents\visual studio 2015\Projects\DPcomposite\DPcomposite\bin\Debug\DPcomposite.pdb
+C:\Users\WHU\documents\visual studio 2015\Projects\DPcomposite\DPcomposite\obj\Debug\DPcomposite.csprojResolveAssemblyReference.cache
+C:\Users\WHU\documents\visual studio 2015\Projects\DPcomposite\DPcomposite\obj\Debug\DPcomposite.exe
+C:\Users\WHU\documents\visual studio 2015\Projects\DPcomposite\DPcomposite\obj\Debug\DPcomposite.pdb

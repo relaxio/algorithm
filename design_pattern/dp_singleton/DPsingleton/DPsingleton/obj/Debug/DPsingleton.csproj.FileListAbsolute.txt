@@ -1,0 +1,10 @@
+c:\users\whu\documents\visual studio 2015\Projects\DPsingleton\DPsingleton\bin\Debug\DPsingleton.exe.config
+c:\users\whu\documents\visual studio 2015\Projects\DPsingleton\DPsingleton\bin\Debug\DPsingleton.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPsingleton\DPsingleton\bin\Debug\DPsingleton.pdb
+c:\users\whu\documents\visual studio 2015\Projects\DPsingleton\DPsingleton\obj\Debug\DPsingleton.csprojResolveAssemblyReference.cache
+c:\users\whu\documents\visual studio 2015\Projects\DPsingleton\DPsingleton\obj\Debug\DPsingleton.Form1.resources
+c:\users\whu\documents\visual studio 2015\Projects\DPsingleton\DPsingleton\obj\Debug\DPsingleton.Properties.Resources.resources
+c:\users\whu\documents\visual studio 2015\Projects\DPsingleton\DPsingleton\obj\Debug\DPsingleton.csproj.GenerateResource.Cache
+c:\users\whu\documents\visual studio 2015\Projects\DPsingleton\DPsingleton\obj\Debug\DPsingleton.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPsingleton\DPsingleton\obj\Debug\DPsingleton.pdb
+c:\users\whu\documents\visual studio 2015\Projects\DPsingleton\DPsingleton\obj\Debug\DPsingleton.FormToolbox.resources

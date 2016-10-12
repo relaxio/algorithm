@@ -6,9 +6,9 @@ abstract class Prototype
         this.id = id;
     }
 
-    public string id
+    public string ID
     {
-        get { return id; }
+        get { return ID; }
     }
 
     public abstract Prototype Clone();
@@ -54,7 +54,7 @@ class Client
 {
     static void Main(string[] args)
     {
-        ConcretePrototype2 p1 = new ConcretePrototype2("I");
-        ConcretePrototype2 c1 = (ConcretePrototype1)p2.Clone();
+        ConcretePrototype2 p2 = new ConcretePrototype2("I");
+        ConcretePrototype2 c2 = (ConcretePrototype1)p2.Clone();
     }
 }
