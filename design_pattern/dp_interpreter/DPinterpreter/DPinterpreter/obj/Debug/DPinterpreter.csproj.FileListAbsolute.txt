@@ -1,0 +1,6 @@
+c:\users\whu\documents\visual studio 2015\Projects\DPinterpreter\DPinterpreter\bin\Debug\DPinterpreter.exe.config
+c:\users\whu\documents\visual studio 2015\Projects\DPinterpreter\DPinterpreter\bin\Debug\DPinterpreter.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPinterpreter\DPinterpreter\bin\Debug\DPinterpreter.pdb
+c:\users\whu\documents\visual studio 2015\Projects\DPinterpreter\DPinterpreter\obj\Debug\DPinterpreter.csprojResolveAssemblyReference.cache
+c:\users\whu\documents\visual studio 2015\Projects\DPinterpreter\DPinterpreter\obj\Debug\DPinterpreter.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPinterpreter\DPinterpreter\obj\Debug\DPinterpreter.pdb

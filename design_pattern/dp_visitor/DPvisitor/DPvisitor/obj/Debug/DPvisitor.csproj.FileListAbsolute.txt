@@ -1,0 +1,6 @@
+c:\users\whu\documents\visual studio 2015\Projects\DPvisitor\DPvisitor\bin\Debug\DPvisitor.exe.config
+c:\users\whu\documents\visual studio 2015\Projects\DPvisitor\DPvisitor\bin\Debug\DPvisitor.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPvisitor\DPvisitor\bin\Debug\DPvisitor.pdb
+c:\users\whu\documents\visual studio 2015\Projects\DPvisitor\DPvisitor\obj\Debug\DPvisitor.csprojResolveAssemblyReference.cache
+c:\users\whu\documents\visual studio 2015\Projects\DPvisitor\DPvisitor\obj\Debug\DPvisitor.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPvisitor\DPvisitor\obj\Debug\DPvisitor.pdb

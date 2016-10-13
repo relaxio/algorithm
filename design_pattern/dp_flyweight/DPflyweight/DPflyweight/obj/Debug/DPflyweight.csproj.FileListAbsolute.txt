@@ -1,0 +1,6 @@
+c:\users\whu\documents\visual studio 2015\Projects\DPflyweight\DPflyweight\bin\Debug\DPflyweight.exe.config
+c:\users\whu\documents\visual studio 2015\Projects\DPflyweight\DPflyweight\bin\Debug\DPflyweight.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPflyweight\DPflyweight\bin\Debug\DPflyweight.pdb
+c:\users\whu\documents\visual studio 2015\Projects\DPflyweight\DPflyweight\obj\Debug\DPflyweight.csprojResolveAssemblyReference.cache
+c:\users\whu\documents\visual studio 2015\Projects\DPflyweight\DPflyweight\obj\Debug\DPflyweight.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPflyweight\DPflyweight\obj\Debug\DPflyweight.pdb

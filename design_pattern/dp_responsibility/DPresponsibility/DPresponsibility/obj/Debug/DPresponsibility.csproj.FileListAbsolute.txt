@@ -1,0 +1,6 @@
+c:\users\whu\documents\visual studio 2015\Projects\DPresponsibility\DPresponsibility\bin\Debug\DPresponsibility.exe.config
+c:\users\whu\documents\visual studio 2015\Projects\DPresponsibility\DPresponsibility\bin\Debug\DPresponsibility.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPresponsibility\DPresponsibility\bin\Debug\DPresponsibility.pdb
+c:\users\whu\documents\visual studio 2015\Projects\DPresponsibility\DPresponsibility\obj\Debug\DPresponsibility.csprojResolveAssemblyReference.cache
+c:\users\whu\documents\visual studio 2015\Projects\DPresponsibility\DPresponsibility\obj\Debug\DPresponsibility.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPresponsibility\DPresponsibility\obj\Debug\DPresponsibility.pdb

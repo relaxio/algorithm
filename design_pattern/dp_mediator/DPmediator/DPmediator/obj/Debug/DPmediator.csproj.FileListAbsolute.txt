@@ -1,0 +1,6 @@
+c:\users\whu\documents\visual studio 2015\Projects\DPmediator\DPmediator\bin\Debug\DPmediator.exe.config
+c:\users\whu\documents\visual studio 2015\Projects\DPmediator\DPmediator\bin\Debug\DPmediator.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPmediator\DPmediator\bin\Debug\DPmediator.pdb
+c:\users\whu\documents\visual studio 2015\Projects\DPmediator\DPmediator\obj\Debug\DPmediator.csprojResolveAssemblyReference.cache
+c:\users\whu\documents\visual studio 2015\Projects\DPmediator\DPmediator\obj\Debug\DPmediator.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPmediator\DPmediator\obj\Debug\DPmediator.pdb
