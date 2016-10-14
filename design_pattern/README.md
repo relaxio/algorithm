@@ -1,3 +1,3 @@
 ##设计模式design pattern
 
-[ces](/))
+![ces](/design_pattern/_img/command_vsd.jpg)
