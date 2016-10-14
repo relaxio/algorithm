@@ -35,18 +35,18 @@
 * [备忘录模式][M21]
 * [迭代器模式][M22]
 
-[M01]:establish_pattern/dp_factory/README.md
-[M02]:establish_pattern/dp_builder/README.md
-[M03]:establish_pattern/dp_prototype/README.md
-[M04]:establish_pattern/dp_singleton/README.md
+[M01]:establish_pattern/dp_factory/
+[M02]:establish_pattern/dp_builder/
+[M03]:establish_pattern/dp_prototype/
+[M04]:establish_pattern/dp_singleton/
 
-[M05]:structure_pattern/dp_adapter/README.md
-[M06]:structure_pattern/dp_bridge/README.md
-[M07]:structure_pattern/dp_composite/README.md
-[M08]:structure_pattern/dp_decorator/README.md
-[M09]:structure_pattern/dp_facade/README.md
-[M10]:structure_pattern/dp_flyweight/README.md
-[M11]:structure_pattern/dp_proxy/README.md
+[M05]:structure_pattern/dp_adapter/
+[M06]:structure_pattern/dp_bridge/
+[M07]:structure_pattern/dp_composite/
+[M08]:structure_pattern/dp_decorator/
+[M09]:structure_pattern/dp_facade/
+[M10]:structure_pattern/dp_flyweight/
+[M11]:structure_pattern/dp_proxy/
 
 [M12]:behavior_pattern/dp_observer/
 [M13]:behavior_pattern/dp_templateMethod/
