@@ -1,0 +1,6 @@
+c:\users\whu\documents\visual studio 2015\Projects\DPfactory\DPfactory\bin\Debug\DPfactory.exe.config
+c:\users\whu\documents\visual studio 2015\Projects\DPfactory\DPfactory\bin\Debug\DPfactory.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPfactory\DPfactory\bin\Debug\DPfactory.pdb
+c:\users\whu\documents\visual studio 2015\Projects\DPfactory\DPfactory\obj\Debug\DPfactory.csprojResolveAssemblyReference.cache
+c:\users\whu\documents\visual studio 2015\Projects\DPfactory\DPfactory\obj\Debug\DPfactory.exe
+c:\users\whu\documents\visual studio 2015\Projects\DPfactory\DPfactory\obj\Debug\DPfactory.pdb
