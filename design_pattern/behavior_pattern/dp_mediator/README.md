@@ -1,2 +1,2 @@
 
-[返回设计模式导航页](/design_pattern/)
+[返回所有模式的导航页](/design_pattern/)
