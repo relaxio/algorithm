@@ -1,2 +1,2 @@
 
-[返回设计模式导航页](/design_pattern/)
+[杩斿洖璁捐妯″紡瀵艰埅椤礭(/design_pattern/)
