@@ -13,27 +13,27 @@
 
 ###结构型模式
 
-* 适配器模式
-* 桥接模式
-* 组合模式
-* 装饰模式
-* 外观模式
-* 享元模式
-* 代理模式
+* [适配器模式][M05]
+* [桥接模式][M06]
+* [组合模式][M07]
+* [装饰模式][M08]
+* [外观模式][M09]
+* [享元模式][M10]
+* [代理模式][M11]
 
 ###行为模式
 
-* 观察者模式
-* 模板方法模式
-* 命令模式
-* 状态模式
-* 职责链模式
-* 解释器模式
-* 中介者模式
-* 访问者模式
-* 策略模式
-* 备忘录模式
-* 迭代器模式
+* [观察者模式][M12]
+* [模板方法模式][M13]
+* [命令模式][M14]
+* [状态模式][M15]
+* [职责链模式][M16]
+* [解释器模式][M17]
+* [中介者模式][M18]
+* [访问者模式][M19]
+* [策略模式][M20]
+* [备忘录模式][M21]
+* [迭代器模式][M22]
 
 [M01]:establish_pattern/dp_factory/README.md
 [M02]:establish_pattern/dp_builder/README.md
@@ -48,14 +48,14 @@
 [M10]:structure_pattern/dp_flyweight/README.md
 [M11]:structure_pattern/dp_proxy/README.md
 
-[M12]:behavior_pattern/dp_observer/README.md
-[M13]:behavior_pattern/dp_templateMethod/README.md
-[M14]:behavior_pattern/dp_command/README.md
-[M15]:behavior_pattern/dp_state/README.md
-[M16]:behavior_pattern/dp_responsibility/README.md
-[M17]:behavior_pattern/dp_interpreter/README.md
-[M18]:behavior_pattern/dp_mediator/README.md
-[M19]:behavior_pattern/dp_visitor/README.md
-[M20]:behavior_pattern/dp_strategy/README.md
-[M21]:behavior_pattern/dp_memento/README.md
-[M22]:behavior_pattern/dp_iterator/README.md
+[M12]:behavior_pattern/dp_observer/
+[M13]:behavior_pattern/dp_templateMethod/
+[M14]:behavior_pattern/dp_command/
+[M15]:behavior_pattern/dp_state/
+[M16]:behavior_pattern/dp_responsibility/
+[M17]:behavior_pattern/dp_interpreter/
+[M18]:behavior_pattern/dp_mediator/
+[M19]:behavior_pattern/dp_visitor/
+[M20]:behavior_pattern/dp_strategy/
+[M21]:behavior_pattern/dp_memento/
+[M22]:behavior_pattern/dp_iterator/
