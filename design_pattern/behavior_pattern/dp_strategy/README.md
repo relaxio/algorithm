@@ -10,43 +10,30 @@
 ###伪代码(C#)
 ```c#
 //策略模式
-abstract class Strategy
-{
+abstract class Strategy{
     //算法方法
     public abstract void AlgorithmInterface();
 }
-
-class ConcreteStrategyA : Strategy
-{
+class ConcreteStrategyA : Strategy{
     //算法A实现方法
     public override void AlgorithmInterface(){}
 }
-
-class ConcreteStrategyB : Strategy
-{
+class ConcreteStrategyB : Strategy{
     //算法B实现方法
     public override void AlgorithmInterface(){}
 }
-
-class ConcreteStrategyC : Strategy
-{
+class ConcreteStrategyC : Strategy{
     //算法C实现方法
     public override void AlgorithmInterface(){}
 }
-
-class Context
-{
+class Context{
     Strategy strategy;
-    public Context(Strategy strategy)
-    {
+    public Context(Strategy strategy){
         this.strategy = strategy;
     }
-
     //与简单工厂结合
-    public Context(string type)
-    {
-        switch(type)
-        {
+    public Context(string type){
+        switch(type){
             case "A":
                 strategy = new ConcreteStrategyA();
                 break;
@@ -56,21 +43,15 @@ class Context
             case "C":
                 strategy = new ConcreteStrategyC();
                 break;
-        }
-        
-    }    
-
+        }        
+    }
     //上下文接口
-    public void ContextInterface()
-    {
+    public void ContextInterface(){
         strategy.AlgorithmInterface();
     }
 }
-
-class Client
-{
-    static void Main(string[] args)
-    {
+class Client{
+    static void Main(string[] args){
         Context context;
         context = new Context(new ConcreteStrategyA());
         context.ContextInterface();
@@ -87,3 +68,8 @@ class Client
     }
 }
 ```
+
+###可运行实例
+
+
+###注意事项
