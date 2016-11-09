@@ -26,3 +26,11 @@ typedef struct{
 #define mp_iseven(a) ((((a)->used > 0) && (((a)->dp[0] & 1u) == 0u)) ? MP_YES : MP_NO)
 #define mp_isodd(a)  ((((a)->used > 0) && (((a)->dp[0] & 1u) == 1u)) ? MP_YES : MP_NO)
 #define mp_isneg(a)  (((a)->sign != MP_ZPOS) ? MP_YES : MP_NO)
+
+#define MP_SIZEOF_MP_DIGIT  (sizeof(mp_digit))
+#define DIGIT_BIT           (((CHAR_BIT * MP_SIZEOF_MP_DIGIT) - 1))
+#define MP_MASK             ((((mp_digit)1) << ((mp_digit)DIGIT_BIT)) - ((mp_digit)1))
+
+#define MP_GT           1
+#define MP_EQ           0
+#define MP_LT           -1
