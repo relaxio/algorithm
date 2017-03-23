@@ -178,10 +178,9 @@ int mp_mul_2(mp_int *a, mp_int *b)
         for(x=b->used; x<olduse; ++x){
             *tmpb++ = 0;
         }
-
-        b->sign = a->sign;
-        return MP_OKAY;
     }
+    b->sign = a->sign;
+    return MP_OKAY;
 }
 
 int mp_div_2(mp_int *a, mp_int *b)
