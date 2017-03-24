@@ -1,16 +1,16 @@
 
 [返回所有模式的导航页](/design_pattern/)
 
-##装饰模式 Decorator
+## 装饰模式 Decorator
 >动态地给一个对象添加一些额外的职责，就增加功能来说，装饰模式比生成子类更为灵活。
 
-###Note
->通过
+### Note
+>通过Component定义的对象接口，给这些对象动态地添加职责
 
-###结构图
+### 结构图
 ![strategy](/design_pattern/_img/decorator_vsd.jpg)
 
-###伪代码(C#)
+### 伪代码(C#)
 ```c#
 abstract class Component{
     public abstract void Operation();
@@ -21,7 +21,7 @@ class ConcreteComponent : Component{
 
 abstract class Decorator : Component{
     protected Component component;
-    public void SetComponent(Component component)    {
+    public void SetComponent(Component component){
         this.component = component;
     }
     public override void Operation(){
@@ -57,5 +57,5 @@ class Client{
 }
 ```
 
-###可运行实例
+### 可运行实例
 
